@@ -1,5 +1,1 @@
-Name rule 
-The virsion number has three numbers, which are FirstNum, SecendNum and LastNum, and the form of them is FirstNum.SecendNum.LastNum
-FirstNum will be used when the file has paragraph changes
-SecendNum will be used when the file has sentence changes
-LastNum will be used when the file has a littel words changs
+版本号的命名规则：三个数字分别是A.B.C，其中A是有大的段落更新或者重新排版时增加1，B是有一些句子的表述需要更明确时增加1，C是有几个错别字或者一些称呼的改动时增加1。一些跳过的版本则为内部迭代，未发布。
